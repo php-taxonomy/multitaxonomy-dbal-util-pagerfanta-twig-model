@@ -1,12 +1,12 @@
 {
-    "name": "php-taxonomy/multitaxonomy-dbal-util-pagerfanta-twig-model",
+    "name": "php-taxonomy/multitaxonomy-doctrine-dbal-util-pagerfanta-twig-model",
     "description": "Multitaxonomy for DBAL-Util persistence (models for pagerfanta objects)",
     "keywords": ["taxonomy", "classification", "category", "tag", "dbal-util"],
-    "homepage": "https://github.com/php-taxonomy/multitaxonomy-dbal-util-pagerfanta-twig-model",
+    "homepage": "https://github.com/php-taxonomy/multitaxonomy-doctrine-dbal-util-pagerfanta-twig-model",
     "license": "ISC",
     "authors": [
         {"name": "Jean-bernard Addor"},
-        {"name": "Community", "homepage": "https://github.com/php-taxonomy/multitaxonomy-dbal-util-pagerfanta-twig-model"}
+        {"name": "Community", "homepage": "https://github.com/php-taxonomy/multitaxonomy-doctrine-dbal-util-pagerfanta-twig-model"}
     ],
     "require": {
         "php": "^5.0",
@@ -18,7 +18,7 @@
     "suggest": {
     },
     "autoload": {
-        "psr-4": { "PhpTaxonomy\\MultiTaxonomy\\DbalUtil\\Pagerfanta\\Twig\\Model\\": "" }
+        "psr-4": { "PhpTaxonomy\\MultiTaxonomy\\DoctrineDbalUtil\\Pagerfanta\\Twig\\Model\\": "" }
     },
     "extra": {
         "branch-alias": {
